@@ -1,4 +1,4 @@
-Overal zijn bandits, de gear kan gevonden worden in een treasure kamer.  Deze kamer zit op slot, lockpicking kan, roll 18 of hoger, het is een groot slot.
+Overal zijn bandits, de gear kan gevonden worden in een treasure room.  Deze kamer zit op slot, lockpicking kan, roll 18 of hoger, het is een groot slot.
 
 De deur kan kapot gemaakt worden, STR roll 18 of hoger.
 

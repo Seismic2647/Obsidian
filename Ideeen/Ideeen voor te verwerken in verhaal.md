@@ -56,3 +56,6 @@ You are a cat I guess.
 
 Een kind introduceren in het begin, deze komt soms terug en als tristram geklaard is kom je het kind later tegen als rogue/warrior / wat ie van welke class geleerd heeft.  Deze kan vervolgens de party joinen indien de amazon dood is.
 
+
+
+- Warlock krijgt een stem in haar hoofd, niet die van zichzelf. Het is een curse.
