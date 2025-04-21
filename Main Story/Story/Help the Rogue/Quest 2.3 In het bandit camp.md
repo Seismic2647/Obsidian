@@ -4,7 +4,6 @@ De deur kan kapot gemaakt worden, STR roll 18 of hoger.
 
 De sleutel voor de treasure room kan gevonden worden op een boss mob
 
-Zodra de hele party binnen is valt de deur terug in het slot. Verdammt iedereen zit opgesloten! Zeggen ze specifiek dat de sleutel er uit gehaald is dan zit er geen slot aan de binnenkant. zeggen ze it niet dan viel de deur dicht met de sleutel in het gat.
 
 In de kamer kunnen ze de gear van de amazon vinden (het gaat hier om een bow met een quiver, en een speer). Verder liggen er 12 gold pieces en de kamer heeft een raar odeur, verder is er weinig van waarde, wat slecht geskinde pelsen met nog wat vlees eraan en een zilver beeldje in de vorm van een uil.  Het ruikt er wel raar, een beetje als een outhouse, warm, vochtig en naar kak
 
