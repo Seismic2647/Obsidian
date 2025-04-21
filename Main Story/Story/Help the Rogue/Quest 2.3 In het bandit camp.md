@@ -1,4 +1,16 @@
-Overal zijn bandits, de gear kan gevonden worden in een treasure room.  Deze kamer zit op slot, lockpicking kan, roll 18 of hoger, het is een groot slot.
+
+As the heroes move deeper into **Howling Hollow**, the stink of rot and iron clogs their nostrils. The fires are lower here, replaced by hanging lanterns that sway from rusted hooks, their flickering light casting shadows shaped like monsters.  
+The camp divides ahead—two crude paths, one veering into darkness, the other pulsing faintly with the sound of violence and steel.
+
+
+
+
+
+ 
+ 
+ 
+ 
+ Deze kamer zit op slot, lockpicking kan, roll 18 of hoger, het is een groot slot.
 
 De deur kan kapot gemaakt worden, STR roll 18 of hoger.
 
