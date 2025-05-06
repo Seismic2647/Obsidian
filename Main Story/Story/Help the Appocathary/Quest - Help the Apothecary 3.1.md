@@ -2,3 +2,4 @@ _"Please, brave souls, I beg you—my daughter, and others in town, are sick fro
 _(hands over a small pouch of coins and a vial of basic herbs)_
 
 Plek waar ze heen moeten is Dark Woods
+naam quintus - dochter lirael
