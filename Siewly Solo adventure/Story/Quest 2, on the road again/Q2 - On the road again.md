@@ -1,0 +1,49 @@
+**🌒 CURRENT LOCATION: Outskirts of Witherhamlet (abandoned village), Western Foothills, Mountains of Khanduras**  
+**🌫 WEATHER: Cold mist crawling low across jagged stone, blood-red sunrise bleeding over icy peaks**  
+**🕕 TIME: Dawn — birds do not sing here, only the wind screams**  
+**🐾 NPCs Nearby: Eevee (her cat companion), Mimi the mouse**
+
+---
+
+Azure climbs from the **stone throat of the Goblin Well**, her hands slick with goblin bile and **her new weapon, Whisperfang**, humming faintly like a vengeful memory. The air up here is **crisp and thin**, stinging her lungs as she emerges into the half-light of morning. **Eevee** paces silently beside her, eyes narrowed, tail twitching — alert.
+
+The **village behind her lies silent**, three buildings, one of them burned and twisted (the farmhouse, where **Isabella** once wore another girl’s face). **Shadows stretch long** from the crooked remains of the town's signs, the letters long worn away save for one rusted plate that simply says: _“Let her not see you.”_
+
+A **crow caws from a distant dead tree**, but its head turns **all the way around**, owl-like, then twice more. It flies off toward the **northeastern trail** — the path that leads toward the **Witch-Haunt Ridge**, a jagged cliff path wrapped in fog and folklore. That’s the way to **Tristram**.
+
+But the **mountains are watching**.
+
+---
+
+### 🌄 The Khanduras Mountain Pass
+
+The narrow trail snakes like a scar across the mountain's skin. Cold winds blow uphill, carrying whispers in a language Azure doesn’t understand — yet **feels drawn toward**. Thorny briars choke the edges of the path, some of them pulsing softly. She sees the occasional **weathered post with dangling bones**, goblin skulls, wolf ribs… and once, a **child's sandal** tied with black string.
+
+This is a place the sane avoid.
+
+Far ahead, a **broken tower** juts from a snowy cliffside. Crows wheel above it, screaming. Faint torchlight flickers near its base. Tristram lies _beyond_ it, but the tower is not empty.
+
+The wind changes. **Mimi squeaks once**, then burrows deep in Azure’s pouch. Eevee stops, growls, and arcs her back. Something — _someone_ — is nearby.
+
+---
+
+### What Azure Can Do:
+
+1. **Investigate the broken tower ahead** — approach cautiously. The light might mean safety… or cultists. Or worse, both. {1}
+    
+2. **Use airbending to ride a sudden gust** up a side slope, gaining elevation to scout the trail and possibly spot ambushes or secret paths. Could draw attention, though. {2}
+    
+3. **Call upon Whisperfang’s elemental spark** to sear a sigil into one of the bone-marked trailposts, possibly revealing a hidden message left by the Echo Beneath… or triggering a trap. {3}
+    
+4. **Break into the sealed house** she left untouched in the hamlet — maybe she missed something. Perhaps a survivor… or the skinwalker again, wearing a new disguise. {4}
+    
+5. **Eat a handful of strange mountain berries** growing near the path — black with gold veins. A ridiculous impulse, but hey, **Mimi sniffed them and didn’t die**, so… {5}
+    
+
+---
+
+As Azure wipes goblin blood from her blade and stares down the mountain road, a strange vision flickers at the edge of her mind: **a masked figure watching her from atop a dead tree**, robes of shadow stitched with flame, whispering her name in a voice _only heard in dreams_.
+
+Welcome to the Mountains of Khanduras. The climb to Tristram begins.
+
+{What does Azure do next?}

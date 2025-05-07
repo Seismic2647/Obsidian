@@ -1,0 +1,99 @@
+Absolutely. Let’s return Azure to the winding, ancient road of the **Khanduras Mountainpass**, where ghost stories are born on the wind and each step toward Tristram tastes like fate.
+
+---
+
+## 🌄 Region: The Khanduras Mountainpass
+
+**CURRENT NPCs: None present (though travelers may soon appear)**  
+**Weather:** Bitter dusk. Wind howling through narrow cuts in the stone like **wailing children**. A thick mist coils around the boots, carrying **phantom whispers** and the **iron scent of distance bloodshed**.  
+**Landmarks:**
+
+- Tower ruins now sealed behind her
+    
+- Azure stands at the edge of a **winding chasm path**, flanked by **obsidian-blacked pine trees** twisted by wind and age
+    
+- Far to the south, **a flickering firelight** can be seen near a cliffside, **half a league down the path**
+    
+
+The path to Tristram cuts through a **maze of cliffs, ancient battlefields, and forgotten graves**. It's not just a walk — it's a passage **between layers of memory and suffering**. Beneath the thin soil, bones from **the Sin War** and **the Zakarum crusades** still rot. Spirits don't stay buried here.
+
+---
+
+## 🥀 Scene Begins: “The Path of a Thousand Bones”
+
+As Azure resumes her journey, Mimi begins to stir. She twitches in Azure’s pouch, whiskers quivering like tuning forks. She sniffs once and then curls into herself — **unusual**.
+
+Eevee pauses at the trail’s edge, fur raised, eyes locked on the **road ahead**.
+
+There — carved into the rock beside the path — an **old monument stone**, shattered but still legible in High Zakaric:
+
+> “HERE WALKED THE WITCHFLESH HOST. ALL WHO PASSED WERE CONSUMED.”
+
+An eerie silence falls as Azure steps past it. The wind drops dead. The birds hush.
+
+---
+
+## 🔥 Mid-Point Encounter: The Cliffside Fire
+
+Ahead, the firelight she spotted earlier flickers within a **collapsed stone outpost** just off the mountain trail.  
+It was once a **Zakarum waystation**, but now only one wall remains standing. Someone — or something — is **camping here**.
+
+From a distance, Azure sees:
+
+- A **figure hunched by the fire**, back turned, unmoving
+    
+- A **pack of gear** tossed nearby — not goblin, not merchant: **monastic** in design
+    
+- The glint of a **blade**, embedded in the stone nearby
+    
+- Crows, unusually silent, perched on the ruins
+    
+
+---
+
+## 🎭 Choice Point — What does Azure do?
+
+Give your player the following narrative options to engage **in character**. No forced rolls yet — let RP lead unless actions require checks.
+
+---
+
+1. **Approach the fire cautiously**, hiding behind broken walls and observing.
+    
+    - Stealth (DC 14) and Perception (DC 13) reveal strange _twitches_ in the fire-sitter’s form.
+        
+    - A successful insight check may hint: _this is no longer a living man_.
+        
+    - Reward: information before engagement.
+        
+2. **Call out from a distance**, announcing herself as a monk of the elements.
+    
+    - The figure **stands** — impossibly tall. Its face is **sewn shut**, and it wears a robe similar to the one Azure tore off the monk she killed before.
+        
+    - Could be mistaken identity, or worse — resurrection.
+        
+3. **Inspect the weapon embedded in the stone first** before engaging the figure.
+    
+    - The blade is old, but enchanted. Marked with the symbol of the **First Flame** — a cult now extinct.
+        
+    - Pulling the blade might awaken something bound beneath the stone. (DC 15 Strength check or Elemental casting success)
+        
+4. **Send Mimi forward** to scout in mouse form.
+    
+    - Mimi, hesitant, approaches.
+        
+    - She returns with a **thread of black root in her teeth**, squeaking “_Not... right... inside._”
+        
+    - Risk: small corruption trigger — DM's discretion.
+        
+5. **Ignore the fire entirely**, bypass the camp and head onward toward Tristram — but the road may not let her pass so easily.
+    
+    - Chance for a **pursuit later**
+        
+    - She misses a major piece of narrative tie-in related to the **monk’s order** she may unknowingly be part of
+        
+
+{What does Azure choose to do?}
+
+---
+
+Let me know which route you'd like her to take, and I’ll expand accordingly — or prep a full combat/puzzle/social encounter depending on her decision.

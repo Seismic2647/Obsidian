@@ -1,0 +1,2 @@
+- The echo beneath is a cult that summoned our players
+- A black potion has dropped, they need to use this somewhere
