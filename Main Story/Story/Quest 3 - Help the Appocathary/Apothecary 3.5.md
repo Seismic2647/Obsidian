@@ -11,7 +11,7 @@ _The apothecary, **Master Quintus**, stands hunched over a workbench, lit by can
 > **Quintus (softly, hoarse):**  
 > _"By the old roots… you made it back."_
 
-> _(His gaze drops to Bo’s belt or Aruza’s satchel, spotting the withered, veined lump of the **Heartroot**, still slick with dark ichor.)_
+> _(His gaze drops when he doesnt see his daughter, but a faint spark of hope can be seen in his eyes when he spots the withered, veined lump of the **Heartroot**, sticking out of the bag of holding. It's still slick with dark ichor.)_
 
 > **Quintus:**  
 > _"Is that—? You found it. The real thing. After all this time…"_

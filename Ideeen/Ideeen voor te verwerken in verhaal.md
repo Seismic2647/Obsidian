@@ -1,3 +1,9 @@
+
+==Laat ze spullen voor pony en cowlvl vinden
+Wirt man al in tristram d1. Leoric shin kan na d fight, moeten ze burnen voor blackened shin==
+
+
+
 Na het slayen van vele undeads worden de undead slimmer, beter en na een lange tijd beginnen ze zelfs te 'praten' a la walking dead waar we op hoopte
 
 in een bandit camp hoor je gefluister uit de well/put komen. gaan ze hier in ontdekken ze een well-folk (naam verzinnen?), mensen die ondergronds leven.
