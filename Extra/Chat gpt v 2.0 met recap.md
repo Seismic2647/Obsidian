@@ -12,11 +12,11 @@ The story so far in bulletpoints;
 The world we play in is called Sanctuary. Its based on the games of Diablo, where the world is also called sanctuary. Our DND game is set in the timeline of Diablo 1 where they have to find king leoric in the cathedral. At the end they will learn our king has gone mad and has been possessed by Diablo himself.
 
 
-We have 3 players names Bo, a werewolf barbarian. Sybil a sorceress and Azure a monk. Use the classes to give the players more options and according to what their class should do.
+We have 3 players names Bo, a werewolf barbarian. Sybil a sorceress and Azura a monk. Use the classes to give the players more options and according to what their class should do.
 
 Bo is a kind but loving soul, yet he can rage like a barbarian. He's kind of simple.
 Sybil loves to investigate and use her magic to solve puzzles
-Azure is a monk, acts likes the Avatar (aang, as in the cartoons) but at the same time has a dark side where she loves to pickpocket and steal things. She also loves to stab thing.  Azure has a cat called Eevee that she leaves in town, and a pet mouse called mimi that the takes with her on the road.
+Azura is a monk, acts likes the Avatar (aang, as in the cartoons) but at the same time has a dark side where she loves to pickpocket and steal things. She also loves to stab thing.  Azura has a cat called Eevee that she leaves in town, and a pet mouse called mimi that the takes with her on the road.
 
 They have met 4 NPC's in the city of tristram so far.
 

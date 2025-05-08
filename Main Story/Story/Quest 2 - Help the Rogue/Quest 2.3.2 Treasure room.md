@@ -1,4 +1,4 @@
-**Path Description:** A narrow wooden passage leads off to the left, past two overturned wagons smoldering with charred canvas. The air here is _still_—almost reverent—and reeks of wet gold and stale blood. Along the walls, tattered banners hang: strips of cloaks, belts, armor from fallen enemies.  
+**Path Description:** A narrow wooden passage leads off to the right, past two overturned wagons smoldering with charred canvas. The air here is _still_—almost reverent—and reeks of wet gold and stale blood. Along the walls, tattered banners hang: strips of cloaks, belts, armor from fallen enemies.  
 Bootprints in the dirt lead inward, some human, some clawed. A single iron bell dangles above the entrance, silent and dust-covered.
 
 A big wooden door with an enchanting red glow is in front of you. Opens with a key the iron bitch has , or a D18 or higher roll for lockpicking / str

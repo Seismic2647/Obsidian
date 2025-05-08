@@ -103,4 +103,4 @@ Grobnar snarls a goblin curse. One pile of bones or trash nearby **animates** as
     
 - **Whisperfang (Kusarigama)** (see above)
     
-- A **fist-sized chunk of obsidian** that seems unnaturally cold and pulses faintly in Azure’s pack
+- A **fist-sized chunk of obsidian** that seems unnaturally cold and pulses faintly in Azura’s pack

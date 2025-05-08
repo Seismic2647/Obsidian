@@ -1,14 +1,6 @@
+Namen; Derrik and Marn
 
-
-Two figures step out from the gate—Derrik and Marn. One leans on a jagged halberd; the other chews on something unpleasant-looking, eyeing the party with narrowed eyes._
-
-
-
-
-
-
-
-
+Two figures step out from the gate—. One leans on a jagged halberd; the other chews on something unpleasant-looking, eyeing the party with narrowed eyes._ tapping bell on feet to let everyone know they are alive
 
 
 

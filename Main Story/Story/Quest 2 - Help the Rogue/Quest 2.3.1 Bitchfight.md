@@ -1,6 +1,7 @@
-**Path Description:** To the right, the ground becomes hard-packed mud soaked with blood. You hear clangs of steel on steel—not training. Execution. 
+**Path Description:** To the left, the ground becomes hard-packed mud soaked with blood. You hear clangs of steel on steel—not training. Execution. 
 
-After a 5 minute walk they reach something that almost looks like a castle. when they enter the hallways here are wide, lit with iron lanterns whose flames sputter green. Along the walls hang **trophies**: the gear of her victims, twisted and reforged into new grotesque shapes.
+
+After a ==5 minute walk== they reach something that almost looks like a castle. when they enter the hallways here are wide, lit with iron lanterns whose flames sputter green. Along the walls hang **trophies**: the gear of her victims, twisted and reforged into new grotesque shapes.
 
 A cracked stone arch bears her name in crude letters burned into a metal plate:  
 **"VANYA - IRON IN HER VEINS"**

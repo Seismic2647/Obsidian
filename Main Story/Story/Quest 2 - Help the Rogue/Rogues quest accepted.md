@@ -6,7 +6,7 @@ As they crest the final rise, they see what’s left of Stormcamp.
 
 It isn’t a battlefield. It’s a **slaughterhouse**.
 
-Tents are ablaze or shredded, canvas flapping like flayed skin in the wind. The banners that once bore the proud spiral of Moreina’s clan are trampled and soaked in gore. **Bodies lie everywhere—dozens of them**, most of them warriors. Some were killed cleanly with arrows or blades. Others... were not.
+Tents are ablaze or shredded, canvas flapping like flayed skin in the wind. The banners that once bore the proud spiral of #Moreina’s clan are trampled and soaked in gore. **Bodies lie everywhere—dozens of them**, most of them warriors. Some were killed cleanly with arrows or blades. Others... were not.
 And the party sees it—**movement**.
 
 

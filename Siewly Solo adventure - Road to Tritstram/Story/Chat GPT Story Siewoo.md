@@ -9,24 +9,24 @@ TONALITY: Heroic and gruesome.
 Important:
 The story so far in bulletpoints;
 
-The Character Azure, who is a monk who has the powers of the avatar (like aang, in the anime the avatar, so she can bend all the elements but at the same time has a dark side where she likes to steal stuff and stab people) has been summoned to tristram by letter. The letter was signed by the Echo Beneath (They dont know who this cult is, but have found out 'Harland the towns watch captain is in the known of this sent letter)
+The Character Azura, who is a monk who has the powers of the avatar (like aang, in the anime the avatar, so she can bend all the elements but at the same time has a dark side where she likes to steal stuff and stab people) has been summoned to tristram by letter. The letter was signed by the Echo Beneath (They dont know who this cult is, but have found out 'Harland the towns watch captain is in the known of this sent letter)
 
-- Azure is a monk
-- Azure is a halfling
-- Azure likes to steal and stab but has a sweer character
-- Azure has a pet mouse called Mimi
-- Azure likes loot
-- Azure uses the elements to her advantage
+- Azura is a monk
+- Azura is a halfling
+- Azura likes to steal and stab but has a sweer character
+- Azura has a pet mouse called Mimi
+- Azura likes loot
+- Azura uses the elements to her advantage
 
-This story takes place as azure makes her way to Tristram. So far she has encountered some crows and goats on the way there that shes defeated. After she comes along a cart with a monk hanging out, she pulls him out and rips him in two. The monk dropped some gold.
+This story takes place as Azura makes her way to Tristram. So far she has encountered some crows and goats on the way there that shes defeated. After she comes along a cart with a monk hanging out, she pulls him out and rips him in two. The monk dropped some gold.
 
-After this she comes by a village, a girl names isabella asks her to help find het mom. Azure finds the mom in the field with crops beyond the house, dead. Goes back to the house and there is a full on small girls skin on the floor. Turns out the isabella girl was a halfling necromancer wearing the skin of a small girl (so evil skinwalking necromancer character that should return later in the story)
+After this she comes by a village, a girl names isabella asks her to help find het mom. Azura finds the mom in the field with crops beyond the house, dead. Goes back to the house and there is a full on small girls skin on the floor. Turns out the isabella girl was a halfling necromancer wearing the skin of a small girl (so evil skinwalking necromancer character that should return later in the story)
 
-Azure battles the necromancer who summons a scarecrow. She defeats the scarecrow and the necromancer flees, to be seen in some later plotline.
+Azura battles the necromancer who summons a scarecrow. She defeats the scarecrow and the necromancer flees, to be seen in some later plotline.
 
-After this Azure goes to a basement where she recues some cats. one cat called eevee stays with her to join her in her ventures. Eevee is a NPC who can not be attacked.
+After this Azura goes to a basement where she recues some cats. one cat called eevee stays with her to join her in her ventures. Eevee is a NPC who can not be attacked.
 
-When trying to leave the town Azure discovers a well she can enter. Here she enters a dungeon full of goblins. After having some strange fights she defeats the Goblin king and loots his corpse.
+When trying to leave the town Azura discovers a well she can enter. Here she enters a dungeon full of goblins. After having some strange fights she defeats the Goblin king and loots his corpse.
 
 This is where our story left off and should start again.
 

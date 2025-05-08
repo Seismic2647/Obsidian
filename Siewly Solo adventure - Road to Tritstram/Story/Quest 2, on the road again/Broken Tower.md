@@ -1,6 +1,6 @@
 ### 📍 **SCENE: The Broken Tower, Witch-Haunt Ridge**
 
-As the player-character **Azure** enters the ruined meditation room inside the tower, she chooses to **taste the ash** in an attempt to understand the residual magic.
+As the player-character **Azura** enters the ruined meditation room inside the tower, she chooses to **taste the ash** in an attempt to understand the residual magic.
 
 ---
 
@@ -13,13 +13,13 @@ As the player-character **Azure** enters the ruined meditation room inside the t
 > He turns, and speaks a single word — almost lovingly:  
 > **“Alvex.”**
 
-When the vision ends, Azure **coughs smoke**, and **a glowing handprint** is now visible in the stone floor before her.
+When the vision ends, Azura **coughs smoke**, and **a glowing handprint** is now visible in the stone floor before her.
 
 From above, **wet, barefoot steps** begin to descend.
 
 ---
 
-### 🎭 PLAYER CHOICES (Present to Azure’s Player)
+### 🎭 PLAYER CHOICES (Present to Azura’s Player)
 
 Offer the following **narrative options**, as guidance or inspiration. These are **not exclusive**, and the player may always propose their own course of action.
 
@@ -41,7 +41,7 @@ Offer the following **narrative options**, as guidance or inspiration. These are
     
 5. **Speak the name "Alvex" aloud**
     
-    > Might summon a spectral presence, trigger a buried memory, or **bind Azure in a blood contract** without warning. Deliciously dangerous.
+    > Might summon a spectral presence, trigger a buried memory, or **bind Azura in a blood contract** without warning. Deliciously dangerous.
     
 
 ---
