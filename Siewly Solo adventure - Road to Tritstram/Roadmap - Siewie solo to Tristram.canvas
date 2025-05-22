@@ -25,9 +25,9 @@
 		{"id":"018860df412c08f2","type":"file","file":"Siewly Solo adventure - Road to Tritstram/Story/Quest 2, on the road again/2.0.0 - On the road again.md","x":5280,"y":-242,"width":640,"height":1202},
 		{"id":"a5ddc78e9cb55fb8","type":"text","text":"**Witch-Haunt Ridge**? zo heet het dunne pad waar ze over moet lopen, hier is ook de broken tower\n\n\nWat is er in het huis waar ze kan inbreken? Is er nog een skinwalker / huid?","x":5343,"y":-880,"width":337,"height":260,"color":"#ee00ff"},
 		{"id":"4a8a9d39b02e6fe2","type":"file","file":"Siewly Solo adventure - Road to Tritstram/Story/Quest 2, on the road again/2.0.1 The Broken Tower.md","x":5280,"y":1240,"width":640,"height":1202},
-		{"id":"5e4a2dc4474c89f0","type":"file","file":"Siewly Solo adventure - Road to Tritstram/Story/Quest 2, on the road again/2.0.3 Encounter - The root priest.md","x":6240,"y":2680,"width":800,"height":1202,"color":"2"},
+		{"id":"5e4a2dc4474c89f0","type":"file","file":"Siewly Solo adventure - Road to Tritstram/Story/Quest 2, on the road again/2.0.3 Encounter - The root priest.md","x":6240,"y":2680,"width":800,"height":1202,"color":"6"},
 		{"id":"9af9e51c7e9ecdd3","type":"file","file":"Siewly Solo adventure - Road to Tritstram/Story/Quest 2, on the road again/2.0.5.1 Overall implementation Mimi's revenge.md","x":6080,"y":-2720,"width":4320,"height":920,"color":"1"},
-		{"id":"811e123eda36f684","type":"text","text":"Root priest moet een goed statblock met attacks\n\nMoet een goede  bossfight worden gezien de reward. Ze weet nog niet dat mimi possessed is\n","x":6360,"y":4080,"width":560,"height":180,"color":"#ff00f7"},
+		{"id":"811e123eda36f684","type":"text","text":"- Moet een goede bossfight worden gezien \n- Reward (de extra spell 2 stappen verder). \n- Ze weet nog niet dat mimi possessed is\n","x":6360,"y":4080,"width":560,"height":180,"color":"#ff00f7"},
 		{"id":"108615d85957df43","type":"file","file":"Siewly Solo adventure - Road to Tritstram/Story/Quest 2, on the road again/2.0.4 Defeated the root priest.md","x":6360,"y":-242,"width":560,"height":1202},
 		{"id":"86f58d4673ff0ee7","type":"text","text":"Alvex moet een eigen storyline krijgen binnen dit verhaal, is een leuke eindbaas\nMisschien dat ddeze uit mimi zn exorsism kan komen","x":7220,"y":-660,"width":250,"height":207,"color":"#ff00ff"},
 		{"id":"360ecf7ea0b4dab4","type":"file","file":"Siewly Solo adventure - Road to Tritstram/Story/Quest 2, on the road again/2.0.5 The tower shifts.md","x":7360,"y":-242,"width":680,"height":1202,"color":"2"},
@@ -72,7 +72,6 @@
 		{"id":"c989df205d930129","fromNode":"ce30737deaccbe48","fromSide":"right","toNode":"5e4a2dc4474c89f0","toSide":"left"},
 		{"id":"1e8ff2155d4537e9","fromNode":"108615d85957df43","fromSide":"right","toNode":"360ecf7ea0b4dab4","toSide":"left"},
 		{"id":"394a4ab981ebd41d","fromNode":"5e4a2dc4474c89f0","fromSide":"top","toNode":"108615d85957df43","toSide":"bottom"},
-		{"id":"d8115c9ccb893e7a","fromNode":"811e123eda36f684","fromSide":"top","toNode":"5e4a2dc4474c89f0","toSide":"bottom"},
 		{"id":"52915d5d9e23157c","fromNode":"86f58d4673ff0ee7","fromSide":"left","toNode":"108615d85957df43","toSide":"top"},
 		{"id":"d8532ed337e5d590","fromNode":"360ecf7ea0b4dab4","fromSide":"left","toNode":"2f4faffbbdee6cee","toSide":"right"},
 		{"id":"897bb0d0b2b00abb","fromNode":"360ecf7ea0b4dab4","fromSide":"right","toNode":"5b65c58674f101d4","toSide":"left"},
@@ -87,6 +86,7 @@
 		{"id":"43cecd88ae57225c","fromNode":"6929d8e619548d06","fromSide":"top","toNode":"57bd801fb629383e","toSide":"bottom"},
 		{"id":"c72a8bd88e5773e0","fromNode":"57bd801fb629383e","fromSide":"right","toNode":"727e743bf5225beb","toSide":"left"},
 		{"id":"33fd0907c4270631","fromNode":"727e743bf5225beb","fromSide":"right","toNode":"cf2e60985071af16","toSide":"left"},
-		{"id":"67a11b3dddf20ea2","fromNode":"4a8a9d39b02e6fe2","fromSide":"bottom","toNode":"ce30737deaccbe48","toSide":"top"}
+		{"id":"67a11b3dddf20ea2","fromNode":"4a8a9d39b02e6fe2","fromSide":"bottom","toNode":"ce30737deaccbe48","toSide":"top"},
+		{"id":"d8115c9ccb893e7a","fromNode":"811e123eda36f684","fromSide":"top","toNode":"5e4a2dc4474c89f0","toSide":"bottom"}
 	]
 }
