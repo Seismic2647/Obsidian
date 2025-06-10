@@ -34,7 +34,7 @@ Intimidation +3, Stealth +4, Survival +2
 
 ### 🌫 Damage Resistances:
 
-Poison, Fire (from years in the forge pit)
+Poison,  (from years in the forge pit)
 
 ### ☣ Condition Immunities:
 
@@ -79,12 +79,12 @@ All enemies within 10 feet of Grobnar must make a **DC 12 Constitution saving th
 ### ⚔ ACTIONS:
 
 **Meat-Hook Flail.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.  
-**Hit:** 9 (1d10 + 3) bludgeoning + 1d6 necrotic.  
+**Hit:** 9 (1D8 + 3) bludgeoning + 1d6 necrotic.  
 On a crit, target must make **DC 13 Constitution save** or take **1 level of exhaustion** from internal bleeding.
 
 **Throw Junkblade.** _Ranged Weapon Attack:_ +4 to hit, range 20/60 ft., one target.  
-**Hit:** 6 (1d8 + 2) piercing damage.  
-On hit, target must make a **DC 12 Strength saving throw** or be **restrained** until they use an action to free themselves.
+**Hit:** 6 (1d6 + 2) piercing damage.  
+On hit, target must make a **DC 8 Strength saving throw** or be **restrained** until they use an action to free themselves.
 
 ---
 

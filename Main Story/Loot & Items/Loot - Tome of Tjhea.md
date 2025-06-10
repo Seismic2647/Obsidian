@@ -1,4 +1,4 @@
-### 🕯️ THE TOME OF Tjhea (zeg TJEAH , cambodjaans voor huis)
+### 🕯️ THE TOME OF Tjhea (zeg TJEAH (pt jee) , cambodjaans voor huis)
 
 A **weightless tome**, bound in flesh-colored vellum and edged with tarnished gold, floats silently in the center of the room. Carved upon its cover is a broken halo and an angel’s tear. When touched, the tome trembles gently… and opens.
 

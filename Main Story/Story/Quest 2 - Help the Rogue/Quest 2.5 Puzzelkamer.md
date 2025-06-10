@@ -24,3 +24,10 @@ achteste 2
 
 
 perception om de tekst te zien
+
+De oplossing van deze puzzel zit hem in de kaarsen.
+
+links 2
+One forward
+4 rechts
+achteste 2
